@@ -1,0 +1,41 @@
+/* селектор тега */
+input{
+    display: block;
+}
+div{
+    border: 1px solid #00f535;  
+}
+textarea{
+    resize:none;
+    
+}
+/* Селектор по id */
+#search_engine{
+    /* width: 800px; */
+    /* width: auto; */
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    display: flex;
+}
+#form{
+    margin: auto ;
+    /* margin: 20px 40px 60px 80px ; 
+    первое число 20 отступ сверху, 40 справа, 60 снизу, 80 слева */
+    /* margin: 50% ; */
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
